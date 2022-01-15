@@ -18,3 +18,6 @@ PUÑETAS màs GERRY
 
 
 .
+
+#Soy el mejor jugando Wz
+*Mi KD es el más alto y soy un niño rata que solo juega con Kilo y con la de Leo mi amor
