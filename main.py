@@ -4,13 +4,14 @@ def gerry():
 
 
 def shei():
-
 	s = 0
 	l = 1
 	l = 1
 
+
 def mata():
-	print ("Hola, mundo")
+	print("Hola, mundo")
+
 
 def kike():
 	print("-1 + 1 = 2")
