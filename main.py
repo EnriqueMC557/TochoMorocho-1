@@ -4,7 +4,9 @@ def gerry():
 
 def shei():
 	pass
-
+	s = 0
+	l = 1
+	l = 1
 
 def mata():
 	pass
