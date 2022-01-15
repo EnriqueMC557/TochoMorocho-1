@@ -7,8 +7,7 @@ def shei():
 
 
 def mata():
-	pass
-
+	print ("Hola, mundo")
 
 def kike():
 	pass
